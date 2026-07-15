@@ -4,6 +4,9 @@ A Windows desktop utility built with **C# and WinForms** for encoding and decodi
 
 Base64-Workbench allows users to convert images into Base64 text and reconstruct images from Base64 encoded data through a simple graphical interface.
 
+<img width="892" height="432" alt="image" src="https://github.com/user-attachments/assets/e40d78f0-11d5-402c-94d7-a3146981130c" />
+
+
 ## Current Version
 
 **v0.2 - Initial Working Prototype**
